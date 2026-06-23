@@ -424,21 +424,6 @@ service cloud.firestore {
 }
 ```
 
----
-
-## 📈 Resume Highlights
-
-This project demonstrates practical skills required for frontend and SDE internship roles:
-
-* Built an authenticated React.js cloud gallery with Firebase Authentication and protected routes.
-* Integrated Cloudinary image upload and stored image metadata in Firestore.
-* Implemented user-wise private galleries using Firebase UID-based data filtering.
-* Added search, category filtering, favorites, delete functionality, modal preview, and profile analytics.
-* Designed a responsive Pinterest-inspired dashboard UI using CSS3 and Framer Motion animations.
-* Deployed the production-ready React application on Vercel.
-
----
-
 ## 🧑‍💻 Author
 
 **Prince Raj**
