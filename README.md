@@ -445,16 +445,3 @@ This project demonstrates practical skills required for frontend and SDE interns
 
 * GitHub: https://github.com/princeraj24
 * Live Demo: https://fire-gallery-chi.vercel.app/
-
----
-
-## 📌 Future Improvements
-
-* Add backend-based signed Cloudinary uploads
-* Delete images directly from Cloudinary using a secure backend
-* Add pagination or infinite scrolling
-* Add drag-and-drop image upload
-* Add image compression before upload
-* Add user profile photo
-* Add album creation feature
-* Add image sharing permissions
